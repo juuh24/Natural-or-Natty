@@ -1,3 +1,5 @@
+![Generative AIs and the future ](https://github.com/user-attachments/assets/64393be4-e079-404f-9a12-d07616e2e6ca)
+![A era das IAs Generativas](https://github.com/user-attachments/assets/62b8d2cd-0551-4267-9921-08dd1934871b)
 # Natural-or-Natty
 Projeto ideal
 
