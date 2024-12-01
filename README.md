@@ -1,5 +1,4 @@
-![Generative AIs and the future ](https://github.com/user-attachments/assets/64393be4-e079-404f-9a12-d07616e2e6ca)
-![A era das IAs Generativas](https://github.com/user-attachments/assets/62b8d2cd-0551-4267-9921-08dd1934871b)
+
 # Natural-or-Natty
 Projeto ideal
 
@@ -189,3 +188,5 @@ https://github.com/user-attachments/assets/ed8d3e4c-7926-46de-a68c-d55440100305
 https://github.com/user-attachments/assets/30fa18d3-3360-45df-9314-93c1460a8fa6
 
 ![A era das IAs Generativas](https://github.com/user-attachments/assets/a8a1b74f-214e-4933-9f9b-7f0c6904f885)
+https://studio.d-id.com/campaign?campaignId=cmp_q0h6g75ytxtwfv39ldltv&UID={{UID}}&ifname={{ifname}}&clientKey=bGlua2VkaW58U3dOdGZ1TEtYaTpoSC1fcERWUTg3S0NyYlhrSWE5SFI=
+https://studio.d-id.com/campaign?campaignId=cmp_5zclofu7onkx1cukjt3gm&UID={{UID}}&ifname={{ifname}}&clientKey=bGlua2VkaW58U3dOdGZ1TEtYaTpYOUJyUkJYX012Ykh3ZlVGUlRkSzk=
